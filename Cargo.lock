@@ -993,6 +993,7 @@ dependencies = [
 [[package]]
 name = "mw"
 version = "0.1.0"
+source = "git+https://github.com/fee1-dead/mw.git#f12908d890246c6e4eee22b2705b4fd6cf1fe9d6"
 dependencies = [
  "futures-util",
  "pin-project",
